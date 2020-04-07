@@ -1,0 +1,10 @@
+# maxos files
+.DS_Store
+._*
+
+# archive files
+*.zip
+
+# vagrant files
+*.box
+.vagrant/
